@@ -49,8 +49,6 @@ The deep learning model used for eye status prediction has been trained on a dat
 
 ##
 ##
-##
-##
 
 # Output
 
