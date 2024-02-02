@@ -4,13 +4,21 @@
 This project implements a Realtime Drowsiness Detection system using computer vision techniques and deep learning. The system utilizes a webcam to capture live video feed, detecting both eyes and faces in each frame to determine the status of the user's eyes – whether they are open or closed.
 
 
+
+
 ## Requirements
 
 **- Python 3.x**
+
 **- OpenCV (cv2)**
+
 **- Numpy**
+
 **- Haar Cascade Classifier for face and eye detection**
+
 **- Trained deep learning model for eye status prediction**
+
+
 
 
 ## Installation
