@@ -5,8 +5,6 @@ This project implements a Realtime Drowsiness Detection system using computer vi
 
 ##
 ##
-##
-##
 
 ## Requirements
 
@@ -20,8 +18,6 @@ This project implements a Realtime Drowsiness Detection system using computer vi
 
 **- Trained deep learning model for eye status prediction**
 
-##
-##
 ##
 ##
 
@@ -44,8 +40,6 @@ The system will open the webcam, capturing video frames in real-time. It will th
 
 Press 'q' to exit the application.
 
-##
-##
 ##
 ##
 
